@@ -21,6 +21,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "android": {
+      "package": "com.todolistapp.mytodos"
     }
+  },
+  "android": {
+    "package": "com.todoapp.mytodos",
+    "versionCode": 1,
+    "permissions": [],
+    "icon": "./assets/icon.png"
   }
 }
